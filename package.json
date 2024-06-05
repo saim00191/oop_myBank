@@ -1,0 +1,27 @@
+{
+  "name": "saim-raza90-bank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "@types/faker": "^6.6.9",
+    "@types/figlet": "^1.5.8",
+    "@types/inquirer": "^9.0.7",
+    "chalk-animation": "^2.0.3",
+    "faker": "^6.6.6",
+    "figlet": "^1.7.0",
+    "inquirer": "^9.2.21"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}
